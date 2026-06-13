@@ -1,5 +1,5 @@
 # Applied-GenAI_Agentic_Frameworks_NewsGenie_AI_Assistant
-NewsGenie is an AI-powered news assistant built using LangGraph, ReAct Agents, NewsAPI, and Tavily Search. It intelligently classifies queries, routes requests through specialized workflows, and leverages conversational memory to deliver real-time, context-aware and trustworthy responses.
+An AI-powered news assistant built using LangGraph, ReAct Agents, NewsAPI and Tavily Search. It intelligently classifies queries, routes requests through specialized workflows and leverages conversational memory to deliver real-time, context-aware and trustworthy responses.
 
 # Project Summary
 The NewsGenie project is a conversational AI assistant developed to simplify news discovery and information retrieval by enabling users to interact with news and general knowledge topics using natural language. Built using a LangGraph-based Agentic AI architecture, the solution combines intelligent query classification, dynamic workflow orchestration, real-time news retrieval, web search enrichment and conversational response generation.
